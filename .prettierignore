@@ -1,9 +1,0 @@
-coverage
-dist
-outputs
-.nyc_output
-tsconfig.json
-package-lock.json
-performanceRecords.json
-*.clinic-*
-*-audit.json
